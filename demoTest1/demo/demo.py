@@ -11,7 +11,6 @@ def foo2(name ,age):
     print('age' ,age);
 
 if __name__=="__main__":
-    print("main")
     foo2('yuhui' ,30)
     foo1(6)
-    foo()  
+    foo()
